@@ -9,7 +9,7 @@
 
 ### 🏆 &nbsp;About Me:
 
---👨‍💻 &nbsp;I am DATA ENGINEER.\
+--👨‍💻 &nbsp;I am SOFTWARE ENGINEER.\
 --🎓 &nbsp;I am studying PhD Artificial Intelligence at the Universidad Politecnica de Cartagena (UPCT).\
 --📚 &nbsp;English (Professional working proficiency).
 
