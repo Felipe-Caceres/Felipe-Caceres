@@ -31,7 +31,7 @@
 ![SQL](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
 
-![Matplotlib](https://matplotlib.org/_static/readme_preview.png)
+![Matplotlib]([https://matplotlib.org/_static/readme_preview.png](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png))
 
 
 ----
