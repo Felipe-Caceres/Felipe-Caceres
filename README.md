@@ -17,11 +17,11 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Numpy](https://img.shields.io/badge/numpy-4169E1.svg?style=for-the-badge&logo=Numpy&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/numpy-4169E1.svg?style=for-the-badge&logo=Numpy&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/numpy-4169E1.svg?style=for-the-badge&logo=Numpy&logoColor=white)&nbsp;
-![Tensorflow](https://img.shields.io/badge/numpy-4169E1.svg?style=for-the-badge&logo=Numpy&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/numpy-4169E1.svg?style=for-the-badge&logo=Numpy&logoColor=white)&nbsp;
-![Pytorch](https://img.shields.io/badge/numpy-4169E1.svg?style=for-the-badge&logo=Numpy&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/matplotlib-4169E1.svg?style=for-the-badge&logo=matplotlib&logoColor=yellow)&nbsp;
+![Seaborn](https://img.shields.io/badge/seaborn-4169E1.svg?style=for-the-badge&logo=seaborn&logoColor=blue)&nbsp;
+![Tensorflow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)&nbsp;
+![Pytorch](https://img.shields.io/badge/pytorch-4169E1.svg?style=for-the-badge&logo=pytorch&logoColor=yellow)&nbsp;
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Docker Compose](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
@@ -30,8 +30,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
-
-![Matplotlib]([https://matplotlib.org/_static/readme_preview.png](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png))
 
 
 ----
