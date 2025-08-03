@@ -40,7 +40,7 @@
 
 <p>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/felipe-c%C3%A1ceres/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="mailto:felipe.caceres.caro@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/felipe-c%C3%A1ceres/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=badge&logo=Linkedin&logoColor=white"></img></a>
+<a href="mailto:felipe.caceres.caro@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <br>
 </p>
