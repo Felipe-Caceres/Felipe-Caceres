@@ -10,7 +10,7 @@
 ### 🏆 &nbsp;About Me:
 
 --👨‍💻 &nbsp;I am SOFTWARE ENGINEER.\
---🎓 &nbsp;I am studying for a PhD Artificial Intelligence at the Universidad Politecnica de Cartagena (UPCT).\
+
 
 ### 🛠 &nbsp;Languages, Frameworks & Tools:
 
